@@ -793,7 +793,7 @@ public class GUI extends JFrame {
               in.dispose();
                                 }
            if(arg.getSource()==about){
-              JOptionPane.showMessageDialog(null,"made by Stefano Gugole & Manauele Frigo", "About",JOptionPane.INFORMATION_MESSAGE);
+              JOptionPane.showMessageDialog(null,"made by Stefano Gugole & Manuele Frigo", "About",JOptionPane.INFORMATION_MESSAGE);
            }
            if(arg.getSource()==debug){
                String pw=JOptionPane.showInputDialog(null, "password?");
